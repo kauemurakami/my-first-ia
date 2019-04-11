@@ -33,3 +33,4 @@ print (classif.predict([[35, 500, 38.5]])) #output [1]
 # teste proprio 2
 print (classif.predict([[3, 1.2, 37]])) #output [0]
 
+print (classif.predict([[42, 350, 40]])) #output [1]
